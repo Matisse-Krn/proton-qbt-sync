@@ -1,0 +1,14 @@
+# Local generated configuration
+config.json
+qbt-webui-password.sec
+Run-Hidden-qbt-proton.vbs
+
+# Logs
+automation.log
+automation.log.*
+*.log
+
+# PowerShell/editor noise
+*.tmp
+*.bak
+.idea/
