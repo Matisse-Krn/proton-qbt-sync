@@ -1,6 +1,6 @@
 <!--
 proton-qbt-sync — Synchronize Proton VPN forwarded ports with qBittorrent on Windows.
-Copyright (C) 2026 <Matisse-Krn>
+Copyright (C) 2026 Matisse-Krn
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
