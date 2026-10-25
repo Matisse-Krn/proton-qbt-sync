@@ -38,6 +38,10 @@ The tool reads Proton VPN's local `client-logs.txt`, extracts the currently acti
 | Proton file read | `%LOCALAPPDATA%\Proton\Proton VPN\Logs\client-logs.txt` |
 | qBittorrent API used | Local WebUI API on `127.0.0.1` |
 
+
+### Automatic synchronization in action
+![How proton-qbt-sync works](assets/proton-qbt-sync_fonctionnement_EN.gif)
+
 ---
 
 ## Scope
@@ -236,6 +240,10 @@ powershell.exe `
 ---
 
 ## Runtime flow
+
+### Architecture and operation
+![proton-qbt-sync architecture](assets/proton-qbt-sync_architecture_EN.svg)
+
 
 ```text
 Windows Task Scheduler
