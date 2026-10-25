@@ -41,7 +41,6 @@ L’outil lit le fichier local `client-logs.txt` de Proton VPN, extrait le port 
 
 
 ### Synchronisation automatique en action
-
 ![Fonctionnement de proton-qbt-sync](assets/proton-qbt-sync_fonctionnement_FR.gif)
 
 ---
@@ -244,7 +243,6 @@ powershell.exe `
 ## Fonctionnement après installation
 
 ### Architecture et fonctionnement
-
 ![Architecture de proton-qbt-sync](assets/proton-qbt-sync_architecture_FR.svg)
 
 ```text
