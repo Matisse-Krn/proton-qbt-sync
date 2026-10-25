@@ -245,7 +245,7 @@ powershell.exe `
 
 ### Architecture et fonctionnement
 
-![Architecture de proton-qbt-sync](assets/proton-qbt-sync_architecture_FR.png)
+![Architecture de proton-qbt-sync](assets/proton-qbt-sync_architecture_FR.svg)
 
 ```text
 Windows Task Scheduler
